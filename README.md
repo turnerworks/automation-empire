@@ -11,8 +11,8 @@ This project isn't just code—it's the culmination of a dream that started betw
 ### The Context
 
 **Laurence, 36**
-- Studied business at university specifically to bring home the skills his father needed
-- His dad was a businessman with an Eastern background—entrepreneurship was in the DNA
+- Studied business at university to bring home the skills his father needed
+- His dad was a businessman with an EastEnd background—entrepreneurship was in the DNA
 - They bonded over stories, ideas, and visions of what they'd build together (2008–2016)
 - Life happened. Turmoil, setbacks, ups and downs
 - The dream never launched
